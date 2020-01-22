@@ -1,2 +1,7 @@
-# RepoForTest
-用于进行一些加解密测试
+-----BEGIN PGP MESSAGE-----
+
+jA0EBwMCRmjiubuWSPDK0nMBpvLycS5lNrr7a+ojElk6R33DLmTRZ+M9xc0htWki
+cmfd6tUlNeIEbjuaI7yQq3aItWvJoU63E5670vXbMBey+ltclmQKvGYQQ2tZJuad
+krl/ECg5P/VBG23Iqd3r81AGFcvcetgU2jIjMmZAqeTYiZ9j
+=rmT6
+-----END PGP MESSAGE-----
